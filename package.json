@@ -1,0 +1,17 @@
+{
+  "name": "fixed-stratified-hash-tree",
+  "version": "0.1.0",
+  "description": "Fixed-depth binary hash tree for verifying leaf membership against a root hash.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {}
+}
