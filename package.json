@@ -1,6 +1,6 @@
 {
   "name": "fixed-stratified-hash-tree",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fixed-depth binary hash tree for verifying leaf membership against a root hash.",
   "type": "module",
   "main": "src/index.js",
